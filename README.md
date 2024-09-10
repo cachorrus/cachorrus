@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 &nbsp;I'm currently working as a Software Engineer.
-- 🔭 &nbsp;Personal goal ─ spend more in learning about Software Architecture, Design Patterns, Testing, DDD.
+- 🔭 &nbsp;Personal goal ─ spend more time learning about Software Architecture, Design Patterns, Testing, DDD.
 - 🌱 &nbsp;I’m currently learning Angular, Testing.
 
 ### 💻 Tech Stack
